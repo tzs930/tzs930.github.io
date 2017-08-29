@@ -4,9 +4,9 @@
   <subtitle>서석인</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://tzs930.github.io/"/>
+  <link href="http://tzs930.github.io/about/"/>
   <updated>2017-08-28T06:36:14.000Z</updated>
-  <id>http://tzs930.github.io/</id>
+  <id>http://tzs930.github.io/about/</id>
   
   <author>
     <name>Seokin Seo</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>newpost</title>
-    <link href="http://tzs930.github.io/2017/08/28/newpost/"/>
-    <id>http://tzs930.github.io/2017/08/28/newpost/</id>
+    <link href="http://tzs930.github.io/about/2017/08/28/newpost/"/>
+    <id>http://tzs930.github.io/about/2017/08/28/newpost/</id>
     <published>2017-08-28T06:36:14.000Z</published>
     <updated>2017-08-28T06:36:14.000Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://tzs930.github.io/2017/08/28/hello-world/"/>
-    <id>http://tzs930.github.io/2017/08/28/hello-world/</id>
+    <link href="http://tzs930.github.io/about/2017/08/28/hello-world/"/>
+    <id>http://tzs930.github.io/about/2017/08/28/hello-world/</id>
     <published>2017-08-28T05:53:05.000Z</published>
     <updated>2017-08-28T05:53:05.000Z</updated>
     
